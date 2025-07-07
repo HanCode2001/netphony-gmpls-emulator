@@ -1,4 +1,4 @@
-netphony-gmpls-emulator v1.3.3
+netphony-gmpls-emulator v1.3.3 test
 ===================
 Repository branch build status:
 
