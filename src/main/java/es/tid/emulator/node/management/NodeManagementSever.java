@@ -22,8 +22,8 @@ public class NodeManagementSever extends Thread {
 		ServerSocket serverSocket = null;
 	    boolean listening=true;
 		try {
-			log.info("Listening on port 6666");	
-	        serverSocket = new ServerSocket(6666);
+			log.info("Listening on port 6667");	
+	        serverSocket = new ServerSocket(6667);
 		}
 		catch (Exception e){
 			log.error("Could not listen management on port 6666");
